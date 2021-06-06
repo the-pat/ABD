@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ABD", "ABD\ABD.fsproj", "{B5481AA8-91F1-4252-8AB5-F4A1E039895F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ABD.Core", "ABD.Core\ABD.Core.fsproj", "{C62E8098-69E1-4563-A632-127DF8C54BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5481AA8-91F1-4252-8AB5-F4A1E039895F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5481AA8-91F1-4252-8AB5-F4A1E039895F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5481AA8-91F1-4252-8AB5-F4A1E039895F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5481AA8-91F1-4252-8AB5-F4A1E039895F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62E8098-69E1-4563-A632-127DF8C54BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62E8098-69E1-4563-A632-127DF8C54BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62E8098-69E1-4563-A632-127DF8C54BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62E8098-69E1-4563-A632-127DF8C54BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
