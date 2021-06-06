@@ -6,6 +6,10 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <Compile Include="Command.fs" />
+        <Compile Include="HelpCommand.fs" />
+        <Compile Include="DownloadCommand.fs" />
+        <Compile Include="CommandLineOptions.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 
